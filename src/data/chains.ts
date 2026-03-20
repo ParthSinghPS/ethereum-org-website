@@ -1067,17 +1067,6 @@ const chains = [
     chain: "Ham",
   },
   {
-    name: "Seismic devnet",
-    infoURL: "https://seismic.systems",
-    chainId: 5124,
-    nativeCurrency: {
-      name: "Seismic Ether",
-      symbol: "ETH",
-      decimals: 18,
-    },
-    chain: "Seismic",
-  },
-  {
     name: "Superseed",
     infoURL: "https://www.superseed.xyz",
     chainId: 5330,
@@ -1815,6 +1804,17 @@ const chains = [
     chain: "ETH",
   },
   {
+    name: "Nillion Network",
+    infoURL: "https://nillion.com/",
+    chainId: 98875,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "ETH",
+  },
+  {
     name: "Sova",
     infoURL: "https://sova.io",
     chainId: 100021,
@@ -2056,6 +2056,17 @@ const chains = [
       decimals: 18,
     },
     chain: "Zether",
+  },
+  {
+    name: "bokuto",
+    infoURL: "https://katana.network",
+    chainId: 737373,
+    nativeCurrency: {
+      name: "Ether",
+      symbol: "ETH",
+      decimals: 18,
+    },
+    chain: "bokuto",
   },
   {
     name: "katana",
